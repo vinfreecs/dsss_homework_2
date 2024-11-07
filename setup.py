@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='math_quiz',
+    name='mathquiz',
     version='0.0.1',
     description="dsss_homework_2",
     url= 'https://github.com/vinfreecs/dsss_homework_2',
