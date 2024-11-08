@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup,find_packages
 
 setup(
     name='math_quiz',
@@ -7,5 +7,5 @@ setup(
     url= 'https://github.com/vinfreecs/dsss_homework_2',
     author='Vinay Kumar',
     author_email='vinayrbs001@gmail.com',
-    py_modules=['math_quiz'],
+    packages=find_packages(),
 )
